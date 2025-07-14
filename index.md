@@ -1,3 +1,8 @@
+## 📁 Links
+
+- **Dataset:** [https://doi.org/10.5281/zenodo.14808650](https://doi.org/10.5281/zenodo.15727482)  
+- **Preprint:** [https://www.medrxiv.org/content/10.1101/2025.03.30.25324761v2](https://www.medrxiv.org/content/10.1101/2025.03.30.25324761v2)
+
 # 📚 References
 
 1. Sethukumar, P. et al. (2023). *Cataloging Existing Hearing Loss Cohort Data to Guide the Development of Precision Medicine for Sensorineural Hearing Loss: A Systematic Review of Hearing Repositories*. _Journal of International Advanced Otology_, 19, 420. [https://doi.org/10.5152/iao.2023.22690](https://doi.org/10.5152/iao.2023.22690)
@@ -22,9 +27,5 @@
 
 11. Schmidt, K.-H., & Metzler, P. (1992). *Wortschatztest*. Beltz.
 
----
 
-## 📁 Additional Links
 
-- **Dataset:** [https://doi.org/10.5281/zenodo.14808650](https://doi.org/10.5281/zenodo.14808650)  
-- **Preprint:** [https://www.medrxiv.org/content/10.1101/2025.03.30.25324761v2](https://www.medrxiv.org/content/10.1101/2025.03.30.25324761v2)
